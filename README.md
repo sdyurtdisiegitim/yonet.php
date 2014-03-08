@@ -1,0 +1,4 @@
+yonet.php
+=========
+
+yonetim sayfası 
